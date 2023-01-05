@@ -1,0 +1,1 @@
+delete from Person.Address where AddressLine1='1';
